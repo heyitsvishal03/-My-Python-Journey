@@ -8,4 +8,4 @@ data = 1.5
 day = 28
 tdata = 1.5*28
 print("The Total Data Offered by our company in your plan duration is:-", tdata ,"GB")
-print("Thank You!")
+print("Thank You!!")

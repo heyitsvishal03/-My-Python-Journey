@@ -8,4 +8,4 @@ h = 5000
 o = 2000
 Netsalary = e+h+o
 print("You Total Salary is =", Netsalary , "/- Rupees.")
-print("Thank You!")
+print("Thank You!!")
